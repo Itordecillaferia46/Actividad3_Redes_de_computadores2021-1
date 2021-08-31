@@ -8,7 +8,7 @@
     "start_dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "Isaac Daniel Tordecilla Feria",
+  "author": "Isaac Daniel Tordecilla Feria - Emilio Florez Carrascal",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
